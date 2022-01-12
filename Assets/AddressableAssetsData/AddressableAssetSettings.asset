@@ -62,7 +62,7 @@ MonoBehaviour:
         m_Value: https://storage.googleapis.com/example-addressable-1/[BuildTarget]
     - m_InheritedParent: 
       m_Id: c614313f17d204240a79f275f521a356
-      m_ProfileName: New Profile
+      m_ProfileName: github
       m_Values:
       - m_Id: 20746e3edd3fe0a4d8f6d7e01910e7e5
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
@@ -73,7 +73,7 @@ MonoBehaviour:
       - m_Id: 42989bbb95949bf4b9d985db1dc2f78b
         m_Value: ServerData/[BuildTarget]
       - m_Id: 759ca6658de1834419cfddcbcd3a8156
-        m_Value: https://storage.googleapis.com/example-addressable-1/[BuildTarget]
+        m_Value: https://github.com/Nikitaeloxin/bundles/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 20746e3edd3fe0a4d8f6d7e01910e7e5
       m_Name: BuildTarget
@@ -107,7 +107,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f3e4ff0afac070a48810765e21363e6a, type: 2}
   - {fileID: 11400000, guid: 7ed9b003ff70ff246bc0f1fddd654ec0, type: 2}
   - {fileID: 11400000, guid: 85f2f8a023bac1843a1197b71a90624f, type: 2}
-  m_ActiveProfileId: 27941c5692e4a204ebfbb062f6a317e7
+  m_ActiveProfileId: c614313f17d204240a79f275f521a356
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}

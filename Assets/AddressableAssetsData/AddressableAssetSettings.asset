@@ -73,7 +73,7 @@ MonoBehaviour:
       - m_Id: 42989bbb95949bf4b9d985db1dc2f78b
         m_Value: ServerData/[BuildTarget]
       - m_Id: 759ca6658de1834419cfddcbcd3a8156
-        m_Value: https://github.com/Nikitaeloxin/bundles/[BuildTarget]
+        m_Value: https://github.com/Nikitaeloxin/bundles/blob/main/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 20746e3edd3fe0a4d8f6d7e01910e7e5
       m_Name: BuildTarget
